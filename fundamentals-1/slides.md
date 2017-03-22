@@ -254,7 +254,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Op
 
 # Fin!
 
-- We have prepared a set of 10 simple exercises to complete.
+- We have prepared a set of 5 simple exercises to complete.
 
 https://repl.it/classroom/invite/EBk2w8v
 
