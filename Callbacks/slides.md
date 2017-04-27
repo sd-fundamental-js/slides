@@ -206,3 +206,7 @@ getData()
 ```
 
 ---
+
+<img src="img/joke.JPG" alt="">
+
+---
