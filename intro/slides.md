@@ -37,7 +37,7 @@ revealOptions:
 
 * 09/05 - SDJS Main Monthly Meetup @ Zeeto 925 B St
 
-* 09/12 - GameJS @ Origin Code Academy
+* 09/12 - Game Dev Night @ Origin Code Academy
 
 * 09/16 - SDJS Community Code Challenge @ LEARN Academy
 

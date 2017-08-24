@@ -27,17 +27,19 @@ A prototype is another object that is used as a fallback source of properties. W
 
 ---
 
-```
-Vehicle Class
-
-```
----
-
 ## Nota Bene
 
 - `prototype` is a reserved word.
 - All objects have a prototype
 - All instances of a prototype will have the methods and properties set on it up the chain
+
+---
+
+I then showed these two Repl.it links:
+
+https://repl.it/KCvQ/0
+
+https://repl.it/KCy6/2
 
 ---
 
