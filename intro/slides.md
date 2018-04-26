@@ -16,7 +16,7 @@ PW: OriginRock$
 
 * Code Challenge
 
-* Michael Roberts: Intro to Express
+* Jason Land: the Fetch API
 
 * Burning Questions
 
@@ -34,13 +34,13 @@ PW: OriginRock$
 
 ## Upcoming Meetups
 
-* April 3 - SDJS Main Monthly Meetup @ Zeeto 925 B St
+* May 1 - SDJS Main Monthly Meetup @ Intuit
 
-* April 10 - Game Dev Night @ Origin Code Academy
+* May 8 - Game Dev Night @ Origin Code Academy
 
-* April 14 - SDJS Social Hour @ TBD (watch our Meetup page)
+* May 15 - BYOP Night @ Origin Code Academy
 
-* April 17 - BYOP Night @ Origin Code Academy
+* May 22 - Women's BYOP Night @ Panera
 
 ---
 
@@ -75,8 +75,6 @@ https://n00b.news
 ---
 ### Warm Up Problems
 
-An anagram is the result of rearranging the letters of a word to produce a new word. Complete the function to return `true` if the two arguments given are anagrams of each other; return `false` otherwise.
-
-This array represents the value of a stock (AAPL) for each minute of the previous trading day. Assuming you have 1 share of stock, find the time yesterday that you could have made the most money by selling that share. `var AAPL = [100, 111, 98, 97, 102, 101, 103, 111]`
+When given an integer or string, turn it into a currency string. For instance, the string or number 123456 would return '1,234.56'. Watch out for negative integers too!
 
 ---
